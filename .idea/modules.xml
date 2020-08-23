@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/17_BinaryFile&amp;Serialization/17_BinaryFile&amp;Serialization.iml" filepath="$PROJECT_DIR$/17_BinaryFile&amp;Serialization/17_BinaryFile&amp;Serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-Thread/18-Thread.iml" filepath="$PROJECT_DIR$/18-Thread/18-Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19_Srings&amp;Regex/19_Srings&amp;Regex.iml" filepath="$PROJECT_DIR$/19_Srings&amp;Regex/19_Srings&amp;Regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21_DesignPattern/21_DesignPattern.iml" filepath="$PROJECT_DIR$/21_DesignPattern/21_DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22_StructuralDesignPattern/22_StructuralDesignPattern.iml" filepath="$PROJECT_DIR$/22_StructuralDesignPattern/22_StructuralDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Debug/Debug.iml" filepath="$PROJECT_DIR$/Debug/Debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Module2++.iml" filepath="$PROJECT_DIR$/.idea/Module2++.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextFile/TextFile.iml" filepath="$PROJECT_DIR$/TextFile/TextFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/ThuatToanSapXep.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/ThuatToanSapXep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thuattoantimkiem/Thuattoantimkiem.iml" filepath="$PROJECT_DIR$/Thuattoantimkiem/Thuattoantimkiem.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+package Singleton;
+
+import java.util.ArrayList;
+
+public class Main {
+    public static void main(String[] args) {
+        ArrayList<Connection> arr = new ArrayList<>();
+        Connection connection = Connection.get_instance();
+        Connection connection1 = Connection.get_instance();
+        arr.add(connection);
+        System.out.println(arr);
+    }
+}
